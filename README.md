@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Hi, I'm Emin KORKUT 👋</h1>
-<h3 align="center">Computer Engineering Student @ Gazi University</h3>
+<h1 align="center">🚀 Hi, I'm Muhammed Emin KORKUT 👋</h1>
+<h3 align="center">Computer Engineering Student Gazi University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eminkorkut&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
