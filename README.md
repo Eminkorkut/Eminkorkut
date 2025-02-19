@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm Muhammed Emin KORKUT 👋</h1>
-<h3 align="center">Computer Engineering Student Gazi University</h3>
+<h3 align="center">Computer Engineering Student at Gazi University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eminkorkut&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
@@ -9,22 +9,22 @@
 ---
 
 ### 💡 About Me:
-- 🔭 I’m currently working on **ROS2 Humble & Gazebo**
-- 🌱 I’m currently learning **ROS2, Gazebo, Python, C, and C#**
-- 🤝 I’m open to collaboration on **AI and Linux-related projects**
-- 📂 Check out my projects on [GitHub](https://github.com/Eminkorkut)
+- 🔭 Currently working on **ROS2 Humble & Gazebo**  
+- 🌱 Learning **ROS2**, **Gazebo**, **Python**, **C**, and **C#**  
+- 🤝 Open to collaboration on **AI** and **Linux-related projects**  
+- 📂 Check out my projects on [GitHub](https://github.com/Eminkorkut)  
 - 📫 Reach me at **eminkrkut@gmail.com**
 
 ---
 
 ### 🌐 Connect with Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammedeminkorkut?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.hackerrank.com/eminkrkut" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
+  <a href="https://www.linkedin.com/in/muhammedeminkorkut?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/eminkrkut" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
 ---
@@ -53,9 +53,7 @@
 
 ---
 
----
-
-### 📈 Most Used Languages:
+### 📈 **Most Used Languages:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eminkorkut&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
