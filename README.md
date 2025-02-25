@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi, I'm Muhammed Emin KORKUT 👋</h1>
+<h1 align="center">Hi, I'm Muhammed Emin KORKUT</h1>
 <h3 align="center">Computer Engineering Student at Gazi University</h3>
 
 <p align="center">
